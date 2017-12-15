@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.badlogicgames.gdx</groupId>
+  <artifactId>gdx-backend-robovm</artifactId>
+  <versioning>
+    <versions>
+      <version>1.9.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171215161628</lastUpdated>
+  </versioning>
+</metadata>

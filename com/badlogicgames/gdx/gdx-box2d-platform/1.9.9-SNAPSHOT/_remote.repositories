@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 15 18:17:26 IST 2017
+gdx-box2d-platform-1.9.9-SNAPSHOT-natives-armeabi-v7a.jar>=
+gdx-box2d-platform-1.9.9-SNAPSHOT-natives-armeabi.jar>=
+gdx-box2d-platform-1.9.9-SNAPSHOT-natives-desktop.jar>=
+gdx-box2d-platform-1.9.9-SNAPSHOT.jar>=
+gdx-box2d-platform-1.9.9-SNAPSHOT-natives-ios.jar>=
+gdx-box2d-platform-1.9.9-SNAPSHOT.pom>=
+gdx-box2d-platform-1.9.9-SNAPSHOT-natives-arm64-v8a.jar>=
+gdx-box2d-platform-1.9.9-SNAPSHOT-natives-x86_64.jar>=
+gdx-box2d-platform-1.9.9-SNAPSHOT-natives-x86.jar>=

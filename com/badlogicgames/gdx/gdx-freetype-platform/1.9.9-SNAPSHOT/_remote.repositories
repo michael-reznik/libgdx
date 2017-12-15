@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 15 18:17:09 IST 2017
+gdx-freetype-platform-1.9.9-SNAPSHOT.pom>=
+gdx-freetype-platform-1.9.9-SNAPSHOT-natives-x86.jar>=
+gdx-freetype-platform-1.9.9-SNAPSHOT-natives-armeabi-v7a.jar>=
+gdx-freetype-platform-1.9.9-SNAPSHOT-natives-x86_64.jar>=
+gdx-freetype-platform-1.9.9-SNAPSHOT-natives-ios.jar>=
+gdx-freetype-platform-1.9.9-SNAPSHOT-natives-armeabi.jar>=
+gdx-freetype-platform-1.9.9-SNAPSHOT-natives-desktop.jar>=
+gdx-freetype-platform-1.9.9-SNAPSHOT-natives-arm64-v8a.jar>=
+gdx-freetype-platform-1.9.9-SNAPSHOT.jar>=

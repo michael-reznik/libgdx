@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 15 18:17:07 IST 2017
+gdx-backend-moe-1.9.9-SNAPSHOT.jar>=
+gdx-backend-moe-1.9.9-SNAPSHOT-sources.jar>=
+gdx-backend-moe-1.9.9-SNAPSHOT.pom>=

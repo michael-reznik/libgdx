@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 15 18:17:29 IST 2017
+gdx-box2d-gwt-1.9.9-SNAPSHOT.pom>=
+gdx-box2d-gwt-1.9.9-SNAPSHOT-sources.jar>=
+gdx-box2d-gwt-1.9.9-SNAPSHOT.jar>=

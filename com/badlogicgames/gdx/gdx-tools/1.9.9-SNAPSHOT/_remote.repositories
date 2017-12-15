@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 15 18:17:25 IST 2017
+gdx-tools-1.9.9-SNAPSHOT.pom>=
+gdx-tools-1.9.9-SNAPSHOT-sources.jar>=
+gdx-tools-1.9.9-SNAPSHOT.jar>=
+gdx-tools-1.9.9-SNAPSHOT-distribution.jar>=

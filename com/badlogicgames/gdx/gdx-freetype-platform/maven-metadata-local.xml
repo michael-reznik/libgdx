@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.badlogicgames.gdx</groupId>
+  <artifactId>gdx-freetype-platform</artifactId>
+  <versioning>
+    <versions>
+      <version>1.9.9-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171215161709</lastUpdated>
+  </versioning>
+</metadata>

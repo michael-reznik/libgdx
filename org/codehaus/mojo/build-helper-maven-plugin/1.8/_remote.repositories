@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 15 18:17:29 IST 2017
+build-helper-maven-plugin-1.8.jar>central=
+build-helper-maven-plugin-1.8.pom>central=
